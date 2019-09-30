@@ -41,6 +41,7 @@ firebase.json
 *.firebaserc
 *.indexes.json
 *.rules
+lib/res/firebase_config.dart
 
 # Exceptions to above rules.
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
